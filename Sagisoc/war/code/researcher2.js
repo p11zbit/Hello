@@ -6,7 +6,7 @@ var jump = 0x3F << 4; // Jump duration bit mask (6 bits 0-63 seconds)
 var interaction = 0xFF << 10; // Total interaction time bit mask (8 bits 0-255 minutes)
 var row;
 
-var chartdata = '1BXEvX-yZPD2-*******JJJ94sR-tnWDYzJomQIc' // Id of Fusion Table containing the data for the chart
+var chartdata = '1H833WnS3M0o_Jktz--XHpM4pBCmLlcBr6pBL_8U' // Id of Fusion Table containing the data for the chart
 	
 // New experiment row HTML code 
 var newrow = '<tr><td class="descr"></td><td class="hidden"></td>' + 
