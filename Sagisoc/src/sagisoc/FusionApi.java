@@ -32,11 +32,11 @@ import java.util.Iterator;
  */
 public class FusionApi {
 
-	public static final String RESEARCHERS = "1DrhyYYviCGF9-*******6uy6cvUQq3uJexr1co8"; // Researchers table encrypted ID
-	public static final String EXPERIMENTS = "1jdl7L34HS7e5Y*******AXIwXA6PUqw21JX7Qz4"; // Experiments table encrypted ID
-	public static final String DATA = "1OGEX_56mvZT9c_uN_c4j*******r54syg_79u00"; // UserBase table encrypted ID
-	public static final String DOWNLOAD_DATA = "1cE7toFp3ZEo*******fMbFlvMiDsc-MvFKHO_hA"; // Merge of UserBase and Transactions table encrypted ID
-	public static final String REQUESTS = "1AHeqMXTgF1VoMa8n*******7q-BgU1vxl4hxMC4"; // Requests table encrypted ID
+	public static final String RESEARCHERS = "1JHMoCyTXYkJ4mEnNRWCwzxh_ZN3QuGyXa8VhO6Y"; // Researchers table encrypted ID
+	public static final String EXPERIMENTS = "1XkjZrUR4-Y1LVjC-HvKPUzjlIZ20E-OnM4S6fR0"; // Experiments table encrypted ID
+	public static final String DATA = "1kwV4fiR_lk-iBpxGyeaDaSLWhbi6zIIw766kvXY"; // UserBase table encrypted ID
+	public static final String DOWNLOAD_DATA = "1mhr-Rhq3KYliaddDSCz7HpY49xsPB5fFWB9MDAI"; // Merge of UserBase and Transactions table encrypted ID
+	public static final String REQUESTS = "1U2RCR9y-TqIQ70Mloxp6XQIH81RHSXOwalOMMU0"; // Requests table encrypted ID
 	
 	public static final String APIkey = "AIzaSyCpDE2A4CJrl*******LzexZrJzrza7Eg"; // API key
 	
