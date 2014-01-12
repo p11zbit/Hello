@@ -38,9 +38,9 @@ public class FusionApi {
 	public static final String DOWNLOAD_DATA = "1mhr-Rhq3KYliaddDSCz7HpY49xsPB5fFWB9MDAI"; // Merge of UserBase and Transactions table encrypted ID
 	public static final String REQUESTS = "1U2RCR9y-TqIQ70Mloxp6XQIH81RHSXOwalOMMU0"; // Requests table encrypted ID
 	
-	public static final String APIkey = "AIzaSyCpDE2A4CJrl*******LzexZrJzrza7Eg"; // API key
+	public static final String APIkey = "535191522007"; // API key
 	
-	private static final String email = "your-gmail@gmail.com"; // Enter your gmail
+	private static final String email = "p11zbit@gmail.com"; // Enter your gmail
 	private static final String password = "your-password";             // Enter password from your gmail
 	
 	
