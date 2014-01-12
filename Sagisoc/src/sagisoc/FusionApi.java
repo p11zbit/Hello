@@ -41,7 +41,7 @@ public class FusionApi {
 	public static final String APIkey = "535191522007"; // API key
 	
 	private static final String email = "p11zbit@gmail.com"; // Enter your gmail
-	private static final String password = "your-password";             // Enter password from your gmail
+	private static final String password = "gitp11zbit";             // Enter password from your gmail
 	
 	
 	/**
