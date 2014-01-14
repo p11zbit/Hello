@@ -16,7 +16,7 @@ import java.util.Iterator;
 
 import javax.servlet.http.*;
 
-import asagisoc.FusionApi;
+import sagisoc.FusionApi;
 
 public class SignInAdmin extends HttpServlet {
 	private static final long serialVersionUID = -296698971282506430L;
