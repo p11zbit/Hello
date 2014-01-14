@@ -23,7 +23,7 @@
     <br/><br/> 
 		<!-- This is the part where the user can sign in -->   
 		<table style="margin: auto;"><tr>
-    	<td><a href="<%= request.getParameter("login") %>" class="buttons"> Sign in as researcher</a></td>
+    	<td><a href="<%= request.getParameter("login") %>" class="buttons"> Sign in as rese</a></td>
     	<td width="20px"></td>
     	<td><a href="/guests.jsp" class="buttons"> Continue as guest </a></td>
     	</tr></table>
